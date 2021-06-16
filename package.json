@@ -17,7 +17,7 @@
     "canonical-path": "1.0.0",
     "cldr-data": "36.0.0",
     "intern": "4.6.0",
-    "postcss": "7.0.21",
+    "postcss": "7.0.36",
     "prismjs": "1.17.1",
     "rehype-stringify": "6.0.0",
     "remark-parse": "7.0.1",
